@@ -6,6 +6,7 @@ int main() {
     double e;
     long double f;
     char cc[]="Hellow World la la la";
+    printf("Size of char = %zu bytes \n", sizeof(char));
     printf("Size of int = %zu bytes \n", sizeof(a));
     printf("Size of long int = %zu bytes\n", sizeof(b));
     printf("Size of long long int = %zu bytes\n", sizeof(c));
