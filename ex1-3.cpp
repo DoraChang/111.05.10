@@ -9,7 +9,10 @@ int main()
     
     printf("please input y: \n");
     scanf("%d",&y);
-        
+    /*
+    + - * / %
+    */
+    
     printf(" %d + %d =%d \n",x,y,x+y);
     
     cout<<"Good night!";
